@@ -23,10 +23,10 @@ All components are connected to a 12V power supply.
 ![Schematic](./schematic.svg)
 
 ### Solenoid valve connected to a water outlet
-![Solenoid valve connected to a water outlet](./image1.jpeg)
+![Solenoid valve connected to a water outlet](./image2.jpeg)
 
 
 ### Case with the Mode Switch and LEDs
-![Case with the Mode Switch and LEDs](./image2.jpeg)
+![Case with the Mode Switch and LEDs](./image1.jpeg)
 
 

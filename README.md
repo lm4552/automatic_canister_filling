@@ -20,13 +20,13 @@ All components are connected to a 12V power supply.
 |On|Off|On (Water Level Switch closed)| Off (Water Level Switch open)|
 
 ### Schematic
-![Schematic](./schematic.svg)
+![Schematic](https://github.com/lm4552/automatic_canister_filling/blob/master/schematic.svg)
 
 ### Solenoid valve connected to a water outlet
-![Solenoid valve connected to a water outlet](./image2.jpeg)
+![Solenoid valve connected to a water outlet](https://github.com/lm4552/automatic_canister_filling/blob/master/image2.jpg)
 
 
 ### Case with the Mode Switch and LEDs
-![Case with the Mode Switch and LEDs](./image1.jpeg)
+![Case with the Mode Switch and LEDs](https://github.com/lm4552/automatic_canister_filling/blob/master/image1.jpg)
 
 

@@ -28,3 +28,5 @@ All components are connected to a 12V power supply.
 Left: Solenoid valve connected to a water outlet
 
 Right: Case with the Mode Switch and LEDs
+
+[See project on GitHub](https://github.com/lm4552/automatic_canister_filling)

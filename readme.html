@@ -1,6 +1,9 @@
 <h1 id="automatic-canister-filling">Automatic Canister Filling</h1>
 <p>This is a simple project to control a water outlet by the water level of a canister or a switch. I am using this in combination with an osmosis plant to fill canisters with omsosis water.</p>
+<p><strong>Old Setup</strong></p>
 <p>The 12V solenoid valve is used to enable or disable the water outlet. It is controlled by a switch which allows it to be permanently on, permanently off or controlled by the water level switch. The water level switch is placed inside the canister and can be mounted in such a way, that it opens when the water level rises above. An RGB LED is used to indicate which switch positions are activated. All components are connected to a 12V power supply.</p>
+<p><strong>New Setup</strong></p>
+<p>I added a microcontroller to the project to enable more features. For example, a timer can be used to disable the solenoid valve regardless of the water level switch. Additionally, the LEDs can be configured in a more intuitive way.</p>
 <p><a href="https://github.com/lm4552/automatic_canister_filling">See project on GitHub</a></p>
 <h3 id="modes">Modes</h3>
 <table>
@@ -37,7 +40,9 @@
 </tr>
 </tbody>
 </table>
-<h3 id="schematic">Schematic</h3>
+<h3 id="new-schematic">New Schematic</h3>
+<p><img alt="Schematic_v2" src="./schematic_v2.svg" width="900px"/></p>
+<h3 id="old-schematic">Old Schematic</h3>
 <p><img alt="Schematic" src="./schematic.svg" width="900px"/></p>
 <h3 id="images">Images</h3>
 <div>
